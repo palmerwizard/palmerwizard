@@ -1,14 +1,12 @@
 # Palmer Wizard
 
-**Sound engineer by trade. Systems thinker by wiring. I build instruments for seeing.**
+**Sound engineer. Systems thinker. I build language and concepts for seeing in between domains.**
 
 ![focus](https://img.shields.io/badge/focus-resonance-7dd3fc) ![base](https://img.shields.io/badge/base-miami-2dd4bf) ![mode](https://img.shields.io/badge/mode-verify_everything-fb7185)
 
-Miami-based FOH/A1, seven years on the live circuit. I work the seams: acoustics, engineering and contemplation, soul language and systems language. The throughline is resonance, literal and otherwise.
+Miami-based FOH/A1. I work: acoustics, engineering and contemplation, soul language and systems language. The throughline is resonance, literal and otherwise.
 
 ## Knowledge map
-
-How deep the water is, honestly marked.
 
 **Deep water** (professional, shipped, years in)
 - Live sound engineering (FOH/A1): seven years across the Miami circuit
@@ -16,8 +14,7 @@ How deep the water is, honestly marked.
 
 **Working depth** (built things, still learning)
 - Cymatics and audio-reactive visuals: built [Cymatic Wizard](https://cymaticwizard.com), a real-time Chladni plate visualizer
-- AI as instrument: three years deep, jailbreak era to present; I treat models as pattern machines and verify everything
-- DJing and sound art: practitioner, underground electronic
+- Audio mixing and sound art: practitioner, underground electronic/ live indie/punk
 - Web craft: Cloudflare Workers, shipped products
 
 **Serious student** (the lens, not the credential)
@@ -33,8 +30,9 @@ How deep the water is, honestly marked.
 
 ## Currently
 
+Defining memetic harmonics and it's impact on performer/empath roles across system scales
 Mapping extraction systems (how they adapt as transparency rises) and holding the bridge: one vocabulary across sound, systems, and psyche.
 
 ---
 
-*The filter is always on. Verify everything, including this.*
+
