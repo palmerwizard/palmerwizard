@@ -4,7 +4,7 @@
 
 ![focus](https://img.shields.io/badge/focus-resonance-7dd3fc) ![base](https://img.shields.io/badge/base-miami-2dd4bf) ![mode](https://img.shields.io/badge/mode-verify_everything-fb7185)
 
-Miami-based FOH/A1, seven years on the live circuit. I work the seams: acoustics and esoterica, engineering and contemplation, soul language and systems language. The throughline is resonance, literal and otherwise.
+Miami-based FOH/A1, seven years on the live circuit. I work the seams: acoustics, engineering and contemplation, soul language and systems language. The throughline is resonance, literal and otherwise.
 
 ## Knowledge map
 
@@ -12,7 +12,7 @@ How deep the water is, honestly marked.
 
 **Deep water** (professional, shipped, years in)
 - Live sound engineering (FOH/A1): seven years across the Miami circuit
-- Acoustics and audio physics: studied mechanical engineering with an acoustics focus; fluent in real rooms, real rigs
+- Acoustics and audio physics: fluent in real rooms, real rigs
 
 **Working depth** (built things, still learning)
 - Cymatics and audio-reactive visuals: built [Cymatic Wizard](https://cymaticwizard.com), a real-time Chladni plate visualizer
