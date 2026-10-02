@@ -16,6 +16,9 @@ Miami-based FOH/A1. I work: acoustics, engineering and contemplation, soul langu
 - Cymatics and audio-reactive visuals: built [Cymatic Wizard](https://cymaticwizard.com), a real-time Chladni plate visualizer
 - Audio mixing and sound art: practitioner, underground electronic/ live indie/punk
 - Web craft: Cloudflare Workers, shipped products
+- Jungian psychology: archetypes, shadow, individuation as a working taxonomy
+- Systems thinking: the default lens; feedback loops, emergence, cross-scale patterns
+- Metacognition: came online by accident; the watcher as a working instrument
 
 **Serious student** (the lens, not the credential)
 - Systems theory and cybernetics: the longtime operating system
