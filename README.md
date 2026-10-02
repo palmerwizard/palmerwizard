@@ -31,7 +31,11 @@ Miami-based FOH/A1. I work: acoustics, engineering and contemplation, soul langu
 ## Currently
 
 Defining memetic harmonics and it's impact on performer/empath roles across system scales
+
+Mapping the kundalini experience and the "awakening" phenomenon. Tracking emergence.
+
 Mapping extraction systems (how they adapt as transparency rises) and holding the bridge: one vocabulary across sound, systems, and psyche.
+
 
 ---
 
