@@ -28,10 +28,7 @@ Miami-based FOH/A1. I work acoustics
 
 ## Featured work
 
-- **[rosetta](https://github.com/palmerwizard/rosetta)**: soul-to-systems translation glossary. Instruments for reading the world with the body and the filter. My public notebook.
-- **[Cymatic Wizard](https://cymaticwizard.com)**: see sound. Real-time audio-reactive Chladni patterns in the browser.
-- **Live event engineering**: FOH/A1, backline, production. The day job.
-- **[emergent-language-map](https://palmerwizard.github.io/emergent-language-map/)**: a star-chart of the vocabulary AI builders are coining in the wild. 115 terms in 9 constellations, mined from 1,142 repos and grouped by resonance.
+- https://palmerwizard.github.io/systems-archetype-map/
 
 ## Currently
 
