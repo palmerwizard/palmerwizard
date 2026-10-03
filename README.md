@@ -4,7 +4,7 @@
 
 ![focus](https://img.shields.io/badge/focus-resonance-7dd3fc) ![base](https://img.shields.io/badge/base-miami-2dd4bf) ![mode](https://img.shields.io/badge/mode-verify_everything-fb7185)
 
-Miami-based FOH/A1. I work: acoustics, engineering and contemplation, soul language and systems language. The throughline is resonance, literal and otherwise.
+Miami-based FOH/A1. I work acoustics
 
 ## Knowledge map
 
