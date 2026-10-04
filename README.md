@@ -32,7 +32,7 @@ Miami-based FOH/A1. I work acoustics
 
 ## Currently
 
-Defining memetic harmonics and it's impact on performer/empath roles across system scales
+Defining memetic interference patterns and it's impact on performer/empath roles across system scales
 
 Mapping the kundalini experience and the "awakening" phenomenon. Tracking emergence.
 
