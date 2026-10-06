@@ -20,7 +20,7 @@
 
 **Serious student** (the lens, not the credential)
 - Systems theory and cybernetics: the longtime operating system
-- Consciousness and contemplative practice: daily meditator; the watcher, the spine, the whole instrument panel
+- Consciousness and contemplative practice: daily meditator
 - Sacred geometry and esoteric frameworks: Hermetic, Jungian; studied as maps, held lightly
 
 ## Featured work
