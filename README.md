@@ -26,6 +26,7 @@
 ## Featured work
 
 - https://palmerwizard.github.io/systems-archetype-map/
+- https://github.com/palmerwizard/rosetta
 
 ## Currently
 
