@@ -9,11 +9,6 @@
 
 ## Knowledge map
 
-**Deep water** (professional, shipped, years in)
-- Live sound engineering (FOH/A1): seven years across the Miami circuit
-- Acoustics and audio physics: fluent in real rooms, real rigs
-
-**Working depth** (built things, still learning)
 - Cymatics and audio-reactive visuals: built [Cymatic Wizard](https://cymaticwizard.com), a real-time Chladni plate visualizer
 - Audio mixing and sound art: practitioner, underground electronic/ live indie/punk
 - Web craft: Cloudflare Workers, shipped products
@@ -21,6 +16,7 @@
 - Systems thinking: the default lens; feedback loops, emergence, cross-scale patterns
 - Metacognition: came online by accident; the watcher as a working instrument
 - Toroidal topology: circulation and return; the geometry under the cymatics
+- Mimetics
 
 **Serious student** (the lens, not the credential)
 - Systems theory and cybernetics: the longtime operating system
