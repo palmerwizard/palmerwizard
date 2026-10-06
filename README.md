@@ -9,7 +9,7 @@
 
 ## Knowledge map
 
-- Cymatics and audio-reactive visuals: built [Cymatic Wizard](https://cymaticwizard.com), a real-time Chladni plate visualizer
+- Cymatics and audio-reactive visuals: built [Cymatic Wizard](https://cymaticwizard.com), a free real-time Chladni plate visualizer
 - Audio mixing and sound art: practitioner, underground electronic/ live indie/punk
 - Web craft: Cloudflare Workers, shipped products
 - Jungian psychology: archetypes, shadow, individuation as a working taxonomy
