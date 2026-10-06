@@ -1,6 +1,7 @@
 # The Wizard
 
 **Sound engineer. Systems thinker. I build language and concepts for seeing in between domains.**
+**The world is a stage, and you're the star**
 
 ![focus](https://img.shields.io/badge/focus-resonance-7dd3fc) ![base](https://img.shields.io/badge/base-miami-2dd4bf) ![mode](https://img.shields.io/badge/mode-verify_everything-fb7185)
 
