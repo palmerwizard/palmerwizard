@@ -36,7 +36,7 @@ Defining memetic interference patterns and it's impact on performer/empath roles
 
 Mapping the kundalini experience and the "awakening" phenomenon. Tracking emergence.
 
-Mapping extraction systems (how they adapt as transparency rises) and holding the bridge: one vocabulary across sound, systems, and psyche.
+Mapping extraction systems (how they adapt as transparency rises)
 
 
 
