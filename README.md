@@ -1,4 +1,4 @@
-# Palmer Wizard
+# The Wizard
 
 **Sound engineer. Systems thinker. I build language and concepts for seeing in between domains.**
 
