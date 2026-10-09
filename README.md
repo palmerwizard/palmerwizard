@@ -16,7 +16,7 @@
 - Systems thinking: the default lens; feedback loops, emergence, cross-scale patterns
 - Metacognition: came online by accident; the watcher as a working instrument
 - Toroidal topology: circulation and return; the geometry under the cymatics
-- Mimetics
+- Memetics
 
 **Serious student** (the lens, not the credential)
 - Systems theory and cybernetics: the longtime operating system
