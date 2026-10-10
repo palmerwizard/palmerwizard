@@ -16,7 +16,7 @@
 - Systems thinking: the default lens; feedback loops, emergence, cross-scale patterns
 - Metacognition: came online by accident; the watcher as a working instrument
 - Toroidal topology: circulation and return; the geometry under the cymatics
-- Memetics
+- Memetics: how ideas spread, mutate, and interfere across scales — tracking memetic interference patterns and their impact on performer/empath roles, from group chats to civilizations
 
 **Serious student** (the lens, not the credential)
 - Systems theory and cybernetics: the longtime operating system
@@ -30,7 +30,7 @@
 
 ## Currently
 
-Defining memetic interference patterns and it's impact on performer/empath roles across system scales
+Defining memetic interference patterns and its impact on performer/empath roles across system scales
 
 Mapping the kundalini experience and the "awakening" phenomenon. Tracking emergence.
 
