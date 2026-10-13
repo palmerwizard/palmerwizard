@@ -29,6 +29,7 @@
 
 - https://palmerwizard.github.io/systems-archetype-map/
 - https://github.com/palmerwizard/rosetta
+- https://github.com/palmerwizard/systems-psych-code
 
 ## Currently
 
