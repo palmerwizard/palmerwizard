@@ -4,8 +4,6 @@
 
 **The world is a stage, and you're the star.**
 
-**Everybody runs a narrative until they observe the grand performance.**
-
 ![focus](https://img.shields.io/badge/focus-resonance-7dd3fc) ![base](https://img.shields.io/badge/base-miami-2dd4bf) ![mode](https://img.shields.io/badge/mode-verify_everything-fb7185)
 
 
